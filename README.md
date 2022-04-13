@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @ranji31 /ranjith
+- 👀 I’m interested in explore all...
+- im a computer science student...
+- 🌱 I’m recently try to understand people wants what?....
+
+<!---
+ranji31/ranji31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
